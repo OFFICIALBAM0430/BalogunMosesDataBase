@@ -1,0 +1,17 @@
+{
+  "name": "assugnment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extended.app.js",
+  "scripts": {
+    "test": "nodemon extended.app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.0"
+  }
+}
